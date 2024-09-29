@@ -21,10 +21,5 @@ This repository contains several projects that utilize the YOLOv5 framework for 
   - Create a project on Roboflow, obtain your API key, and set up your dataset.
   - Use the provided script to download the dataset and train the model.
 
-## Installation
-1. Clone the repository:
-   git clone https://github.com/your_username/yolov5-object-detection.git
-   cd yolov5-object-detection
-   
 required packages:
 pip install -r requirements.txt
